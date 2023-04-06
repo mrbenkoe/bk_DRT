@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+iframe_figures
+my_results.pkl
+*.pyc
